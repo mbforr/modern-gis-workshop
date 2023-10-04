@@ -1,0 +1,7 @@
+/data
+.iguide.ddb
+.iguide.ddb.wal
+/storm_events
+/dbt-storm_events
+/logs
+/dbt-env

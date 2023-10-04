@@ -1,0 +1,10 @@
+storm_events:
+  target: dev
+  outputs:
+    dev:
+      type: duckdb
+      path: /tmp/duckdb.ddb
+      extensions:
+        - httpfs
+        - spatial
+        - parquet
