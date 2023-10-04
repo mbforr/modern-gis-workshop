@@ -5,3 +5,4 @@
 /dbt-storm_events
 /logs
 /dbt-env
+.DS_Store
