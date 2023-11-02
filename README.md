@@ -1,8 +1,6 @@
-# Modern GIS Infrastructure
-
 # Modern GIS Workshop
 
-Welcome! This repo contains the code and guides used for the I-Guide Forum 2023 at Columbia University. 
+Welcome! This repo contains the code and guides used for the I-Guide Forum 2023 at Columbia University. The slides for this workshop can be found [here](https://docs.google.com/presentation/d/1-oSLrcywtmlmt4aSWI4rDqCu_mR2V4luLvh5RSVjdnk/edit?usp=sharing).
 
 ## Requirements
 
