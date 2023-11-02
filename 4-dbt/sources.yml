@@ -5,4 +5,4 @@ sources:
     meta:
       external_location: 'https://www.ncei.noaa.gov/pub/data/swdi/stormevents/csvfiles/StormEvents_details-ftp_v1.0_{name}.csv.gz'
     tables:
-      - name: d2023_c20230918
+      - name: d2023_c20231017
