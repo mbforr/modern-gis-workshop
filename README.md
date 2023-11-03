@@ -25,22 +25,22 @@ Welcome! This repo contains the code and guides used for the I-Guide Forum 2023 
 
 ## Part 1: GeoParquet
 
-- [Link to code](https://github.com/mbforr/modern-gis-workshop/1-geoparquet)
+- [Link to code](./1-geoparquet/)
 
 ## Part 2: PostGIS
 
-- [Link to code](https://github.com/mbforr/modern-gis-workshop/2-postgis)
+- [Link to code](./2-postgis/)
 
 ## Part 3: DuckDB
 
 - [DuckDB Docs](https://duckdb.org/docs/installation/index)
-- [Link to code](https://github.com/mbforr/modern-gis-workshop/3-duckdb)
+- [Link to code](./3-duckdb/)
 
 ## Part 4: dbt
 
 - [Installing dbt](https://docs.getdbt.com/docs/core/installation)
-- [Link to code](https://github.com/mbforr/modern-gis-workshop/4-dbt)
+- [Link to code](./4-dbt/)
 
 ## Part 5: H3
 
-- [Link to code](https://github.com/mbforr/modern-gis-workshop/5-h3)
+- [Link to code](./5-h3/)
